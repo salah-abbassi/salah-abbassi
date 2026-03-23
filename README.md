@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Spark, Kafka**
+- 🌱 I’m currently learning **Data warehousing , machine learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning And machine learning project**
+- 👯 I’m looking to collaborate on **Deep Learning And machine learning projects**
 
 - 🤝 I’m looking for help with **LLM and IA Agent Api keys**
 
@@ -18,16 +18,12 @@
 
 - 💬 Ask me about **Machine Learning , MLOPs**
 
-- 📫 How to reach me **abbassisalaheddine0@gmail.com**
+- 📫 How to reach me **<b>abbassisalaheddine0@gmail.com</b>**
 
 - ⚡ Fun fact **I'm a Calisthenics person**
 
 
-<p>
-👨‍💻 Portfolio: <a href="https://salah-abbassi.github.io/Portfolio/index.html">Visit here</a> <br>
-📝 LinkedIn: <a href="https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/">My Profile</a> <br>
-📫 Email: <b>abbassisalaheddine0@gmail.com</b>
-</p>
+
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="1100" height="900"></p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
