@@ -24,6 +24,9 @@
 <a href="https://www.instagram.com/abbassi.salah/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+<a href="https://www.facebook.com/salah.abbassi.9279" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
