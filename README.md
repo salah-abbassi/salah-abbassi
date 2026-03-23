@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+SALAH+EDDINE+ABBASSI;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=084565&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+SALAH+EDDINE+ABBASSI;Welcome+to+my+GitHub+Profile" />
 </h1>
 
 
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F700FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Data+Science+Enthusiast;Machine+Learning+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=084565&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Data+Science+Enthusiast;Machine+Learning+Lover" />
 </p>
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
 
