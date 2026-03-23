@@ -11,33 +11,36 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
+<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
   <img src="https://img.shields.io/badge/🔭_Working_on-Machine_Learning_Project-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌱_Learning-Data_Warehousing_&_ML-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/👯_Collaboration-Deep_Learning-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤝_Looking_for-LLM_&_AI_Agents-orange?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/💬_Ask_me-Machine_Learning_&_MLOps-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Fun_fact-Calisthenics_Lover-black?style=for-the-badge" />
-</p>
+
+</div>
 
 ---
 
-### 🌐 Links & Contact
+<h3 align="center">🌐 Links & Contact</h3>
 
-<p align="center">
+<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
   <a href="https://salah-abbassi.github.io/Portfolio/index.html">
     <img src="https://img.shields.io/badge/🌍_Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
+
   <a href="https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/">
     <img src="https://img.shields.io/badge/📝_LinkedIn-Articles-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:abbassisalaheddine0@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+</div>
 
 
 
