@@ -10,13 +10,13 @@
 ⚡ Fun fact: <b>Calisthenics enthusiast</b>
 </p>
 
-<p >
+<p>
 👨‍💻 Portfolio: <a href="https://salah-abbassi.github.io/Portfolio/index.html">Visit here</a> <br>
 📝 LinkedIn: <a href="https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/">My Profile</a> <br>
 📫 Email: <b>abbassisalaheddine0@gmail.com</b>
 </p>
 
-<h3 align="center>Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://x.com/abbassiedd93873" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
