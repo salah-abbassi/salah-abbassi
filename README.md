@@ -17,7 +17,7 @@
 📝 LinkedIn: <a href="https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/">My Profile</a> <br>
 📫 Email: <b>abbassisalaheddine0@gmail.com</b>
 </p>
-<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" ></p>
+<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="1100" height="900"></p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://x.com/abbassiedd93873" target="blank">
