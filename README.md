@@ -23,7 +23,7 @@
 </div>
 
 ---
-
+<h2 align="center">Connect with me in</h2>
 <h3 align="center">🌐 Links & Contact</h3>
 
 <div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
@@ -39,7 +39,7 @@
   <a href="mailto:abbassisalaheddine0@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<h2 align="center">Connect with me</h2>
+
 <p align="center">
 <a href="https://x.com/abbassiedd93873" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="70" width="80" />
