@@ -9,24 +9,35 @@
 </p>
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
 
+<h2 align="center">🚀 About Me</h2>
 
-- 🔭 I’m currently working on **Machine Learning Project**
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Working_on-Machine_Learning_Project-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Data_Warehousing_&_ML-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👯_Collaboration-Deep_Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Looking_for-LLM_&_AI_Agents-orange?style=for-the-badge" />
+</p>
 
-- 🌱 I’m currently learning **Data warehousing , machine learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/💬_Ask_me-Machine_Learning_&_MLOps-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Fun_fact-Calisthenics_Lover-black?style=for-the-badge" />
+</p>
 
-- 👯 I’m looking to collaborate on **Deep Learning And machine learning projects**
+---
 
-- 🤝 I’m looking for help with **LLM and IA Agent Api keys**
+### 🌐 Links & Contact
 
-- 👨‍💻 All of my projects are available at [https://salah-abbassi.github.io/Portfolio/index.html](https://salah-abbassi.github.io/Portfolio/index.html)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/](https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/)
-
-- 💬 Ask me about **Machine Learning , MLOPs**
-
-- 📫 How to reach me **<b>abbassisalaheddine0@gmail.com</b>**
-
-- ⚡ Fun fact **I'm a Calisthenics person**
+<p align="center">
+  <a href="https://salah-abbassi.github.io/Portfolio/index.html">
+    <img src="https://img.shields.io/badge/🌍_Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/">
+    <img src="https://img.shields.io/badge/📝_LinkedIn-Articles-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abbassisalaheddine0@gmail.com">
+    <img src="https://img.shields.io/badge/📫_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
