@@ -3,14 +3,20 @@
 <h3 align="center">Data Analytics & Data Science Enthusiast from Morocco</h3>
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
 
-<p>
-🔭 Working on <b>Machine Learning Projects</b> <br>
-🌱 Learning <b>Spark & Kafka</b> <br>
-👯 Open to collaborate on <b>Deep Learning & ML Projects</b> <br>
-🤝 Looking for help with <b>LLMs & AI Agents APIs</b> <br>
-💬 Ask me about <b>Machine Learning & MLOps</b> <br>
-⚡ Fun fact: <b>Calisthenics enthusiast</b>
+<div align="center">
+
+### 🚀 About Me
+
+<p style="font-size:18px; line-height:2;">
+🔭 <b>Machine Learning Projects</b> <br>
+🌱 <b>Spark & Kafka</b> <br>
+👯 <b>Deep Learning & ML Collaboration</b> <br>
+🤝 <b>LLMs & AI Agents APIs</b> <br>
+💬 <b>Machine Learning & MLOps</b> <br>
+⚡ <b>Calisthenics enthusiast</b>
 </p>
+
+</div>
 
 <p>
 👨‍💻 Portfolio: <a href="https://salah-abbassi.github.io/Portfolio/index.html">Visit here</a> <br>
