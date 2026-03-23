@@ -3,20 +3,25 @@
 <h3 align="center">Data Analytics & Data Science Enthusiast from Morocco</h3>
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></p>
 
-<div align="center">
 
-### 🚀 About Me
+- 🔭 I’m currently working on **Machine Learning Project**
 
-<p style="font-size:18px; line-height:2;">
-🔭 <b>Machine Learning Projects</b> <br>
-🌱 <b>Spark & Kafka</b> <br>
-👯 <b>Deep Learning & ML Collaboration</b> <br>
-🤝 <b>LLMs & AI Agents APIs</b> <br>
-💬 <b>Machine Learning & MLOps</b> <br>
-⚡ <b>Calisthenics enthusiast</b>
-</p>
+- 🌱 I’m currently learning **Spark, Kafka**
 
-</div>
+- 👯 I’m looking to collaborate on **Deep Learning And machine learning project**
+
+- 🤝 I’m looking for help with **LLM and IA Agent Api keys**
+
+- 👨‍💻 All of my projects are available at [https://salah-abbassi.github.io/Portfolio/index.html](https://salah-abbassi.github.io/Portfolio/index.html)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/](https://www.linkedin.com/in/salah-eddine-abbassi-bi-analytics/)
+
+- 💬 Ask me about **Machine Learning , MLOPs**
+
+- 📫 How to reach me **abbassisalaheddine0@gmail.com**
+
+- ⚡ Fun fact **I'm a Calisthenics person**
+
 
 <p>
 👨‍💻 Portfolio: <a href="https://salah-abbassi.github.io/Portfolio/index.html">Visit here</a> <br>
