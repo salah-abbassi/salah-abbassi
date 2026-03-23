@@ -39,12 +39,6 @@
   <a href="mailto:abbassisalaheddine0@gmail.com">
     <img src="https://img.shields.io/badge/📫_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-</div>
-
-
-
-<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="1100" height="900"></p>
 <h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://x.com/abbassiedd93873" target="blank">
@@ -57,6 +51,12 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="70" width="80" />
 </a>
 </p>
+</div>
+
+
+
+<p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="1100" height="900"></p>
+
 
 <h2 align="center">Languages and Tools</h2>
 <p align = "center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  width="400" height="400" ></p>
